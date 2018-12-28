@@ -1,3 +1,5 @@
+name: "octomagic-with-jekyll"
+output_dir: "."
 navbar:
   title: "Octocat magic website"
   left:
