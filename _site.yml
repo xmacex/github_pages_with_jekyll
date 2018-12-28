@@ -1,0 +1,7 @@
+navbar:
+  title: "Octocat magic website"
+  left:
+    - text: "Home"
+      href: index.md
+    - text: "Another Page"
+      href: another_page.md
